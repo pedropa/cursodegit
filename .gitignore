@@ -1,0 +1,8 @@
+cache/
+config/databases.yml
+config/keys.yml
+
+tmp/
+*.map.js
+
+
